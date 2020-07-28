@@ -1,6 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
 **General Kenobi !**
+
+I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of computer science degree, I started programming when I was 15-16 on html, css and a bit later on Java.
+
+## Known programming languages:
+
+- Java
+- Python
+- C
+- PHP
+- Javascript / Node.js (Electron, Expressjs)
+- *HTML / CSS*
+
+
+**[More details here](https://sexiestchiba.github.io/)**
 
 <!--
 **SexiestCHiba/SexiestCHiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
