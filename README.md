@@ -12,6 +12,7 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 - PHP
 - Javascript / Node.js (Electron, Expressjs)
 - *HTML / CSS*
+- MySql
 
 
 **[More details here](https://sexiestchiba.github.io/)**
