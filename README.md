@@ -2,7 +2,7 @@
 
 **General Kenobi !**
 
-I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of computer science degree, I started programming when I was 15-16 on html, css and a bit later on Java.
+I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of computer science degree.
 
 ## Known programming languages:
 
@@ -10,9 +10,9 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 - Python
 - C
 - PHP
-- Javascript / Node.js (Electron, Expressjs)
+- Javascript (Node.js *(Electron, Expressjs)*) 
 - *HTML / CSS*
-- MySql
+- MySQL
 
 
 **[More details here](https://sexiestchiba.github.io/)**
