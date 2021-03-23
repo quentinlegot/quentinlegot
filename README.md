@@ -10,24 +10,12 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 - Python
 - C
 - PHP
-- Javascript (Node.js *(Electron, Expressjs)*) 
-- *HTML / CSS*
+- Javascript / Node.js (Electron, Expressjs)
+- HTML / CSS
 - MySQL
 
+**[Projects I worked on](https://sexiestchiba.github.io/projects)**
 
-**[More details here](https://sexiestchiba.github.io/)**
+## Contacts
 
-<!--
-**SexiestCHiba/SexiestCHiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me by sending me an email to [legotquentin@gmail.com](mailto:legotquentin@gmail.com)
