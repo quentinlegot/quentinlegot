@@ -14,7 +14,7 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 - HTML / CSS
 - MySQL
 
-**[Projects I worked on](https://sexiestchiba.github.io/projects)**
+**[Projects I worked on](https://sexiestchiba.github.io/projects.html)**
 
 ## Contacts
 
