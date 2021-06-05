@@ -7,12 +7,12 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 ## Known programming languages:
 
 - Java
-- Python
+- Python ( numpy, scipy, matplotlib, flask, plotly, pandas, mysql )
 - C
 - PHP
 - Javascript / Node.js (Electron, Expressjs)
 - HTML / CSS
-- MySQL
+- MySQL / MariaDB
 
 **[Projects I worked on](https://sexiestchiba.github.io/projects.html)**
 
