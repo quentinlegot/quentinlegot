@@ -2,7 +2,7 @@
 
 **General Kenobi !**
 
-I'm Quentin, a 21 years old French student in 3nd year of computer science degree.
+I'm Quentin, a 21 years old French student in 3rd year of computer science degree.
 
 ## Known programming languages:
 
