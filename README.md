@@ -2,7 +2,7 @@
 
 **General Kenobi !**
 
-I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of computer science degree.
+I'm Quentin, a 21 years old French student in 3nd year of computer science degree.
 
 ## Known programming languages:
 
@@ -10,11 +10,11 @@ I'm Quentin aka SexiestCHiba 🐕, a 20 yo French student in 2nd year of compute
 - Python ( numpy, scipy, matplotlib, flask, plotly, pandas, mysql )
 - C
 - PHP
-- Javascript / Node.js (Electron, Expressjs)
+- Javascript / Node.js (Electron, Expressjs, Vuejs)
 - HTML / CSS
 - MySQL / MariaDB
 
-**[Projects I worked on](https://sexiestchiba.github.io/projects.html)**
+**[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
 ## Contacts
 
