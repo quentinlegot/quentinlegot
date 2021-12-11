@@ -7,12 +7,36 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 ## Known programming languages:
 
 - Java
-- Python ( numpy, scipy, matplotlib, flask, plotly, pandas, mysql )
-- C
+- Python
 - PHP
-- Javascript / Node.js (Electron, Expressjs, Vuejs)
+- Javascript
 - HTML / CSS
 - MySQL / MariaDB
+- Rust
+- C
+
+## Known Framework and others technologies
+
+### Java
+
+- JUnit 4 and 5
+- Gson
+- JavaFX
+
+### Python
+
+- numpy
+- matplotlib
+- plotly
+- pandas
+- flask
+
+### Javascript
+
+- Node.js
+- Electron.js
+- Express.js
+- Vue.js
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
