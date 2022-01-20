@@ -11,6 +11,7 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 - PHP
 - Javascript
 - HTML / CSS
+- GoLang
 - MySQL / MariaDB
 - Rust
 - C
@@ -22,6 +23,7 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 - JUnit 4 and 5
 - Gson
 - JavaFX
+- JOGL
 
 ### Python
 
@@ -37,6 +39,11 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 - Electron.js
 - Express.js
 - Vue.js
+- React
+
+### Go
+
+- Gin
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
