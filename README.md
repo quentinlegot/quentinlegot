@@ -7,13 +7,13 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 ## Known programming languages, Framework and others technologies:
 
 
-| Java          | Python     | PHP | Javascript       | GoLang | SQL        | Rust | C |
-|---------------|------------|-----|------------------|--------|------------|------|---|
-| JUnit 4 and 5 | numpy      |     | Node.js          | Gin    | MySQL      |
-| Gson          | matplotlib |     | Electron.js      |        | MariaDB    |
-| JavaFX        | plotly     |     | Express.js       |        | PostgreSQL |
-| JOGL          | pandas     |     | Vue.js and React |
-|               | flask      |     | React Native     |
+| Java          | Python     | Javascript       | GoLang | SQL             | Others languages where I don't know any framework |
+|---------------|------------|------------------|--------|-----------------|---------------------------------------------------|
+| JUnit 4 and 5 | numpy      | Node.js          | Gin    | MySQL           | Rust
+| Gson          | matplotlib | Electron.js      |        | MariaDB         | C
+| JavaFX        | plotly     | Express.js       |        | PostgreSQL      | PHP
+| JOGL          | pandas     | Vue.js and React |        | MongoDB         |
+|               | flask      | React Native     |        | GraphQL + Neo4j |
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
