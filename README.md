@@ -7,8 +7,8 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 ## Known programming languages, Framework and others technologies:
 
 
-| Java          | Python     | Javascript       | GoLang | SQL             | Others languages where I don't know any framework |
-|---------------|------------|------------------|--------|-----------------|---------------------------------------------------|
+| Java          | Python     | Javascript       | GoLang | SQL             | Others languages |
+|---------------|------------|------------------|--------|-----------------|------------------|
 | JUnit 4 and 5 | numpy      | Node.js          | Gin    | MySQL           | Rust
 | Gson          | matplotlib | Electron.js      |        | MariaDB         | C
 | JavaFX        | plotly     | Express.js       |        | PostgreSQL      | PHP
