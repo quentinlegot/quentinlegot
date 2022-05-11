@@ -10,10 +10,11 @@ I'm Quentin, a 21 years old French student in 3rd year of computer science degre
 | Java          | Python     | Javascript       | GoLang | SQL             | Others languages |
 |---------------|------------|------------------|--------|-----------------|------------------|
 | JUnit 4 and 5 | numpy      | Node.js          | Gin    | MySQL           | Rust
-| Gson          | matplotlib | Electron.js      |        | MariaDB         | C
+| Gson          | matplotlib | Electron.js      |        | MariaDB         | C and C++
 | JavaFX        | plotly     | Express.js       |        | PostgreSQL      | PHP
 | JOGL          | pandas     | Vue.js and React |        | MongoDB         |
-|               | flask      | React Native     |        | GraphQL + Neo4j |
+| Gradle, maven | flask      | React Native     |        | GraphQL + Neo4j |
+|               | seaborn
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
