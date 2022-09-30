@@ -2,7 +2,7 @@
 
 **General Kenobi !**
 
-I'm Quentin, a 21 years old French student.
+I'm Quentin, a 22 years old French student.
 
 I validated my computer science license in 2022 at Université de Caen Normandie and I'm now working in a master's degree in computer science in a Network specialty at Université de Rennes 1.
 
