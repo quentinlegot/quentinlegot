@@ -11,11 +11,11 @@ I validated my computer science license in 2022 at Université de Caen Normandie
 
 | Java              | Python     | Javascript       | SQL             | C / C++ | Others languages |
 |-------------------|------------|------------------|-----------------|---------|------------------|
-| JUnit 4 and 5     | numpy      | Node.js          | MySQL           | GLFW    | Rust
-| Gson              | matplotlib | Electron.js      | MariaDB         | Glad    | PHP
-| JavaFX            | plotly     | Express.js       | PostgreSQL      | GLM     | GoLang (w/ Gin)
-| JOGL              | pandas     | Vue.js and React | MongoDB         |
-| Gradle, maven     | flask      | React Native     | GraphQL + Neo4j |
+| JUnit 4 and 5     | numpy      | Electron.js      | MySQL / MariaDB | GLFW    | Rust
+| Gson              | matplotlib | Express.js       | PostgreSQL      | Glad    | PHP
+| JavaFX            | plotly     | Vue.js and React | GraphQL + Neo4j | GLM     | GoLang (w/ Gin)
+| JOGL              | pandas     | React Native     |
+| Gradle, maven     | flask      |
 | Minecraft modding | seaborn
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
