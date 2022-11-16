@@ -9,14 +9,15 @@ I validated my computer science license in 2022 at Université de Caen Normandie
 ## Known programming languages, Framework and others technologies:
 
 
-| Java              | Python     | Javascript       | SQL             | C / C++ | Others languages |
+| Java              | Python     | Javascript       | SQL             | C / C++ | Others things    |
 |-------------------|------------|------------------|-----------------|---------|------------------|
 | JUnit 4 and 5     | numpy      | Electron.js      | MySQL / MariaDB | GLFW    | Rust
-| Gson              | matplotlib | Express.js       | PostgreSQL      | Glad    | PHP
-| JavaFX            | plotly     | Vue.js and React | GraphQL + Neo4j | GLM     | GoLang (w/ Gin)
-| JOGL              | pandas     | React Native     |
-| Gradle, maven     | flask      |
-| Minecraft modding | seaborn
+| Gson and Guava    | matplotlib | Express.js       | PostgreSQL      | Glad    | PHP
+| JavaFX and Swing  | plotly     | Vue.js and React | GraphQL + Neo4j | GLM     | GoLang (w/ Gin)
+| JOGL              | pandas     | React Native     |                 |         | RabbitMQ
+| Gradle, maven, Ant| flask      |
+| Minecraft modding | seaborn    |
+| RMI               | Discord.py |
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
