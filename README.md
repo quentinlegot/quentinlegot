@@ -4,20 +4,23 @@
 
 I'm Quentin, a 22 years old French student.
 
-I validated my computer science bachelor in 2022 at Université de Caen Normandie and I'm now working in a master's degree in computer science in a Network speciality at Université de Rennes 1.
+I validated my computer science bachelor in 2022 at Université de Caen Normandie and I'm now working in a master's degree in computer science in a Network speciality at Université de Rennes 1 since september 2022.
 
 ## Known programming languages, Framework and others technologies:
 
+About programming language: Rust, Java, Python, Javascript, SQL, HTML/CSS for the ones I'm the most confortable
 
-| Java              | Python     | Javascript       | SQL             | C / C++ | Others things    |
-|-------------------|------------|------------------|-----------------|---------|------------------|
-| JUnit 4 and 5     | numpy      | Electron.js      | MySQL / MariaDB | GLFW    | Rust
-| Gson and Guava    | matplotlib | Express.js       | PostgreSQL      | Glad    | PHP
-| JavaFX and Swing  | plotly     | Vue.js and React | GraphQL + Neo4j | GLM     | GoLang (w/ Gin)
-| JOGL              | pandas     | React Native     |                 |         | RabbitMQ
-| Gradle, maven, Ant| flask      |
-| Minecraft modding | seaborn    |
-| RMI               | Discord.py |
+In term of technologies and Framework: 
+
+- Docker
+- RabbitMQ
+
+- JUnit, JavaFX, JOGL, Gradle for Java
+- numpy, seaborn, plotly, pandas, Discord.py for Python
+- Electron.js, Vue.js, React and React-Native for Javascript
+- Tokio, Tauri for Rust
+
+Currently learning Kubernetes and ArgoCD by myself
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
