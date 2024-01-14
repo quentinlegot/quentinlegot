@@ -2,25 +2,25 @@
 
 **General Kenobi !**
 
-I'm Quentin, a 22 years old French student.
+I'm Quentin, a 23 years old French student.
 
-I validated my computer science bachelor in 2022 at Université de Caen Normandie and I'm now working in a master's degree in computer science in a Network speciality at Université de Rennes 1 since september 2022.
+I validated my computer science bachelor in June 2022 at Université de Caen Normandie and I'm now working in a master's degree in computer science in a Network speciality at Université de Rennes 1 since september 2022.
 
-## Known programming languages, Framework and others technologies:
+## Known programming languages, Framework and others technologies
 
-About programming language: Rust, Java, Python, Javascript, SQL, HTML/CSS for the ones I'm the most confortable
+About programming language: Rust, Java, Python, Javascript, SQL, HTML/CSS for the ones I'm the most confortable but I konw some more
 
 In term of technologies and Framework: 
 
-- Docker
+- Docker, Ansible, Kubernetes
 - RabbitMQ
 
 - JUnit, JavaFX, JOGL, Gradle for Java
-- numpy, seaborn, plotly, pandas, Discord.py for Python
+- numpy, matplotlib, pandas, Discord.py for Python
 - Electron.js, Vue.js, React and React-Native for Javascript
 - Tokio, Tauri for Rust
-
-Currently learning Kubernetes and ArgoCD by myself
+- Gin for Golang
+  
 
 **[Projects I worked on](https://quentinlegot.github.io/projects.html)**
 
