@@ -20,9 +20,8 @@ In term of technologies and Framework:
 - Electron.js, Vue.js, React and React-Native for Javascript
 - Tokio, Tauri for Rust
 - Gin for Golang
-  
 
-**[Projects I worked on](https://quentinlegot.github.io/projects.html)**
+**[More informations here](https://quentinlegot.github.io/)**
 
 ## Contacts
 
